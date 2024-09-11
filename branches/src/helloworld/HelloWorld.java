@@ -58,6 +58,4 @@ public class HelloWorld extends Object {
 
 
    }
-
-}
 // FIXME issue introduced in hotfix
